@@ -2,7 +2,7 @@
 
 An AI-powered web scraping application that extracts website content using **Selenium** and **BeautifulSoup**, then allows users to **query and parse the scraped data using a Large Language Model (LLM)** via **Ollama** — all through an interactive **Streamlit UI**.
 
----
+
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ An AI-powered web scraping application that extracts website content using **Sel
 - 🖥️ Simple and interactive Streamlit interface
 - 🔐 Secure configuration using environment variables
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +25,5 @@ An AI-powered web scraping application that extracts website content using **Sel
 - **Ollama (LLaMA 3)**
 - **python-dotenv**
 
----
 
-## 📁 Project Structure
 
